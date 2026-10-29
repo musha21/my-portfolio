@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Cybernetics",
+  "description": "Gateway to your augmented self. A futuristic cybernetics and biotechnology interface featuring interactive cursor spotlight reveal and circular telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
